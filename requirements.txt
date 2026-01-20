@@ -1,2 +1,1 @@
-!pip install transformers accelerate torch
 !pip install gradio groq
